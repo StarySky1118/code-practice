@@ -1,0 +1,3 @@
+﻿  源.cpp
+G:\研究生学习\代码练习笔记\cSourceCode\202206\day0629\day0629\源.cpp(522,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  day0629.vcxproj -> G:\研究生学习\代码练习笔记\cSourceCode\202206\day0629\x64\Debug\day0629.exe
